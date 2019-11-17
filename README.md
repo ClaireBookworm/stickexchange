@@ -1,5 +1,5 @@
-# AngelHacks 2019 site
+# Stick Exchange 2019
 
-[**angelhacks.org**](https://angelhacks.org)
+*url in progress*
 
 MIT License
